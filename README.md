@@ -4,6 +4,8 @@
 
 纯前端的多人同屏派对小游戏，使用 **React + TypeScript + Vite** 构建。没有后端、没有登录，开一局就能玩。
 
+**在线试玩：<https://kaixinxiaobao7-ops.github.io/emoji-decoder/>**
+
 ## 技术栈
 
 - React 19
