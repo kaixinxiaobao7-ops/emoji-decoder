@@ -1,0 +1,6 @@
+.DS_Store
+.preview/
+node_modules/
+dist/
+*.local
+.tools/
